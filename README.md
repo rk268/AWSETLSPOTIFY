@@ -36,7 +36,5 @@ Here’s a polished, emoji-rich GitHub README section for your **Spotify AWS ETL
 
 ### 📽️ [Project Walkthrough (Video)](https://drive.google.com/file/d/1vxejLYnV-M0D0-K8r-ugLtei72byCjOi/view?usp=sharing)
 
----
 
-Let me know if you want a shorter version or badges added (like `AWS Certified`, `Built with Python`, etc.).
 
